@@ -1,0 +1,22 @@
+header{
+    background-color: aqua;
+    border: 2px solid rebeccapurple ;
+}
+main{
+background-color: thistle;
+border: 2px solid cadetblue;
+}
+footer{
+    background-color:gray;
+    border: 2px solid darkslategrey;
+}
+button{
+    background-color: black;
+}
+a{
+    color: cyan;
+}
+body{
+    /* color: gray; */
+    border: 5px solid black;
+}
